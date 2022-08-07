@@ -1,6 +1,6 @@
 from config import bot
 from datetime import datetime, timedelta
-from handlers.Database import ALL_CHATS
+from Database.Database import ALL_CHATS
 
 
 class MuteModerator:
